@@ -27,7 +27,7 @@ export default function Header() {
               Services
             </Link>
             <a
-              href="https://wa.me/1234567890?text=I%20want%20to%20book%20an%20appointment"
+              href="https://wa.me/653029096?text=I%20want%20to%20book%20an%20appointment"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover-scale"
