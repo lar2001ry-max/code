@@ -68,8 +68,7 @@ export default function Header() {
             >
               Book Now
             </a>
-                Book Now
-              </a>
+                
             </div>
           </nav>
         )}
